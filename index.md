@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Portfolio
+title: Home
 ---
 ## 私について
 
