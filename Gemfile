@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 gemspec
+gem "jekyll", "~> 4.0.0"
 gem "webrick", "~> 1.8"
 group :jekyll_plugins do
     gem "jekyll-sitemap"
