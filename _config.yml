@@ -3,7 +3,7 @@ title         : "scaffold"
 description   : "Web site scaffold besed on Thinkspace Jekyll theme"
 keywords      : ""
 url           : "https://crssrds.jp/scaffold" # site url
-# baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/OGP/sample_ogp_picture.png" # image uri like logo/cover image for site seo
 
 google_analytics  : # G-XXXXXXXXXX
