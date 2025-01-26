@@ -1,9 +1,9 @@
 # Site settings
 title         : "scaffold"
 description   : "Web site scaffold besed on Thinkspace Jekyll theme"
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : "https://crssrds.jp/scaffold" # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+keywords      : ""
+url           : "/" # site url
+baseurl       : "/" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/OGP/sample_ogp_picture.png" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX

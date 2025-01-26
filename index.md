@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: home
 title: Home
 ---
 # 見出し1
